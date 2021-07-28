@@ -2,6 +2,14 @@
 
 
 
+/* Span tag for Drop Caps */
+span {
+  float: left;
+  line-height: 85%;
+  width: .7em;
+  font-size: 300%;
+}
+
 .blog-header {
   /*line-height: 1;*/
   background-color: #162044;
