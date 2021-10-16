@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Sean Conlon>
+    <meta name="generator" content="Hugo 0.84.0">
+    <title>Rookie extensions: Who's locking in and who's locked out</title>
+    <link rel="shortcut icon" type="image/png" href="../blog/Logo.png">
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/blog/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="../blog/blog.css" rel="stylesheet">
+  </head>
+  <body>
+  
+  
+  <footer class="blog-footer">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-4 text-center">
+        <!--  Do you want the image here or do you want a title? -->
+        <!--  <a class="blog-header-logo text-dark" href="#">The Deep Two</a> -->
+        <a href="../index.html"><img src="../blog/tdt-logo_bug-v2.1 (1).png" alt="Logo" width="200" height="200"></a>
+      </div>
+      <div class="col-4 d-flex justify-content-end align-items-center">
+        
+      </div>
+    </div>
+  </footer>
+
+  <!--   Topmost nav bar   -->
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 link-secondary" href="#"></a>
+      <a class="p-2 link-secondary" href="../index.html">Home</a>
+      <a class="p-2 link-secondary" href="../blog/About.html">About Us</a>
+      <a class="p-2 link-secondary" href="https://open.spotify.com/show/18alM4tQKg1u884cu1ZR7l">Spotify</a>
+      <a class="p-2 link-secondary" href="https://www.facebook.com/TheDeepTwoNBA/"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+        <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://www.instagram.com/thedeeptwo/?hl=en"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://www.linkedin.com/company/the-deep-two-nba-podcast/?originalSubdomain=au"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+        <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://twitter.com/TheDeepTwoNBA"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+        <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://podcasts.apple.com/au/podcast/the-deep-two-nba-podcast/id1472955756"><span class="iconify" data-icon="ion-logo-apple" data-inline="false"></span></a>
+      <a class="p-2 link-secondary" href="#"></a>
+    </nav>
+  </div>
+</div>
+
+<!--  Article start   -->
+<main class="container">
+  <div class="row g-5">
+    <div class="col-md-8">
+      <h3 class="pb-4 mb-4 fst-italic border-bottom">
+      </h3>
+
+      <article class="blog-post">
+        
+        <h2 class="blog-post-title">Rookie extensions: Who's locking in and who's locked out</h2>
+        <p class="blog-post-meta">October 16 by <a href="../blog/About.html">Sean Carroll</a></p>
+
+        
+        <p style="font-family: body;"><em>With the rookie extension deadline looming, who will get an offer before free agency?</em></p>
+        <img src="Cover.png" class="img-fluid">
+        <p style="text-align: center; color: gray;">Sean Carroll illustration</p>
+        <hr>
+        <p style="font-family: body;"><span>T</span>&nbsp; he rookie extension deadline is one of the more underrated dates on the NBA calendar. It unfortunately falls on the same day as opening night, taking away all the attention (except for some nerdy podcasts).</p>
+        <p style="font-family: body;">Players entering the fourth and final year of their rookie-scale deal can negotiate an extension between the end of their third season and start of the fourth. In our COVID-interrupted case, those dates are between 3 August and 18 October 2021.</p>
+        <p style="font-family: body;">The best players in a rookie class are no-brainers, they sign as soon as possible, as seen with Luka Doncic, Trae Young or Shai Gilgeous-Alexander. This offseason, we even saw Michael Porter Jr. and the Denver Nuggets ink an extension well before the deadline, easing some of the concerns employing
+        <a href="https://www.youtube.com/watch?v=pZeRuIF4uKY" target="_blank">Curious Mike</a> brings on. </p>
+        <p style="font-family: body;">In 2020, Donovan Mitchell, Jayson Tatum and Bam Adebayo all signed extensions before the start of the season while players like Lonzo Ball, John Collins, Jarrett Allen and Lauri Markkanen couldn’t come to an agreement.</p>
+        <p style="font-family: body;">In most cases, the reasons a player and team can’t agree is because the player believes they’re worth more than the team is willing to pay. In the case of Collins, he went out and played an efficient role on the Eastern Conference finalists, then got the money he wanted.</p>
+        <p style="font-family: body;">For another player like Lonzo Ball, who couldn’t quite convince <a href="../new-orleans-pelicans-fire-david-griffen/Article.html" target="_blank">David Griffin</a>
+          of his worth, he took the matter into restricted free agency and signed an offer from the Chicago Bulls.</p>
+        
+        <p style="font-family: body;">Let’s take a look at some of players still eligible to sign extensions with their current teams heading into the start of the 2021-22 NBA season.</p>
+        
+        <h5>Deandre Ayton, this could get awkward</h5>
+        <p style="font-family: body;">Deandre Ayton proved many doubters wrong with his most recent run in the 2021 NBA playoffs, anchoring the defence and playing a crucial role on the Western Conference champion Phoenix Suns.</p>
+        <p style="font-family: body;">He proved that there still is value in a traditional big man not named Nikola Jokic, Joel Embiid or Rudy Gobert and looked like a completely different player to the shy rookie out of Arizona. His playoff success also 
+        <a href="../golden-state-warriors-james-wiseman-deandre-ayton/Article.html" target="_blank">led some curious fans to believe Ayton’s success could be replicated</a> by other young bigs.</p>
+        <p style="font-family: body;">In Ayton’s first trip to the playoffs, he averaged 15.8 points, 11.8 rebounds and 1.1 blocks while shooting 66 percent from the floor. His production on offence didn’t just look great on an Excel spreadsheet, his fearless rim-rolling and explosive
+          <del>dunks</del> layups drew defenders in, opening up all kinds of looks for Devin Booker and Chris Paul.</p>
+        <p style="font-family: body;">He has it all: an elite regular season, an outstanding playoff performance and the pedigree of a first overall draft pick. But despite all this, he’s still without a contract extension and it doesn’t even look close.</p>
+        <p style="font-family: body;"><a href="https://www.espn.com/nba/story/_/id/32342241/phoenix-suns-deandre-ayton-negotiations-max-rookie-extension-stalled-sources-say" target="_blank">Adrian Wojnarowksi, <em>ESPN</em> reported</a> last week that contract extension talks have stalled as the big man has no intensions of accepting a contract worth less than the max. Ayton’s max would be a five-year, $172 million deal that could include bonuses up to $207 million.</p>
+        <p style="font-family: body;">Now, I don’t want to belittle Woj’s importance to the NBA world, but a lot of his sources are agents and come from the players’ point of view. When he does report from the league’s perspective, it’s usually one of the softest, apolitical reports known to man that the NBA gives to him because they understand his reach.</p>
+        <p style="font-family: body;">For Woj to report that it’s simply Phoenix not offering all they can, fans might ask themselves: “hmm, which of these two parties has a prior history of not paying for on-court talent?”</p>
+        <p style="font-family: body;">Here’s a snippet from Adrian’s original report (yeah, we’re on a first-name basis): “If Suns owner Robert Sarver doesn't come to an agreement with Ayton before the deadline, it will certainly raise questions again about his commitment to constructing a sustainable contender in the Western Conference.”</p>
+
+        <h5>What to do with Collin Sexton?</h5>
+        <p style="font-family: body;">I’m contractually obligated, as a member of <a href="https://open.spotify.com/show/18alM4tQKg1u884cu1ZR7l?si=2MoEVc15STidm8t-tR5w1w&dl_branch=1&nd=1" target="_blank"><em>The Deep Two NBA Podcast</em></a>, 
+          to mention Collin Sexton at all times and wow, is this one of the trickier situations in the NBA.
+        </p>
+
+        <p style="font-family: body;">The Cleveland Cavaliers were going to have to <a href="../clevelend-cavaliers-extend-collin-sexton/Article.html" target="_blank">ask themselves a tricky question</a>
+          with Sexton and well… they haven’t answered it yet. As a rebuilding team, it’d make perfect sense to retain a 22-year-old guard who has gotten exponentially better in his three years in the league.</p>
+
+        <p style="font-family: body;">But ever since entering the league, Sexton has failed to shake his reputation as a chucker, as a guy who’s always going to average a high number of points on a losing team but won’t change his stripes. </p>
+        <p style="font-family: body;">To his credit, people complained about his passing ability, so he upped that from three assists a night to 4.4, even while Darius Garland took more of the ball out of his hands. He wasn’t considered an elite shooter but he still shot over league average from behind the arc on more attempts this past season (4.4).</p>
+        <p style="font-family: body;">Cavs general manager Koby Altman has said all the right things, telling reporters on media day that he wants to get a deal done: “We want him here long term. He wants to be here long term. We’re working with his representation to see that through, but this is someone that has been with us since the start of this thing and we love him. 
+        </p>
+        <p style="font-family: body;">“We will deal with that behind closed doors. The feelings are mutual in terms of something long term.”
+        </p>
+        <p style="font-family: body;">Hours after that quote was recorded, Michael Porter Jr. signed a max extension with the Nuggets, an extension that ended up
+        <a href="https://nugglove.com/2021/10/01/denver-nuggets-biggest-risk-michael-porter-jr-extension/" target="_blank">giving more to the player than some initially expected</a> due to injury concerns. </p>
+        <p style="font-family: body;">Sexton should probably get an offer near the max and he should take it. A little less than what Cleveland could offer is better than he’d get anywhere else since many of the cap space teams look to be hoarding space to collect assets, not sign players.</p>
+        <p style="font-family: body;">One little speed bump in the Sexton extension is that signing one now would render him untradeable for three months, taking a major chip off the table for
+        <a href="https://cavaliersnation.com/2021/10/08/report-cavs-have-consistently-registered-interest-in-ben-simmons/" target="_blank">a Ben Simmons deal</a>.</p>
+
+        <h5>Jaren Jackson Jr., pressure from every angle</h5>
+        <p style="font-family: body;">The Memphis Grizzlies need this coming season to go as well as possible for Jaren Jackson Jr.</p>
+        <p style="font-family: body;">Jaren Jackson Jr. needs this coming season to go as well as possible for Jaren Jackson Jr.
+        </p>
+        <p style="font-family: body;">Everything was so cute at the start for JJJ. He was a fine selection with the fourth pick for the Grizz and he spent the first half of his rookie season playing (and more importantly, learning) from Marc Gasol before he was traded to the Toronto Raptors.</p>
+        <p style="font-family: body;">The following season, Jackson Jr. took 6.5 three-point attempts a night and looked like a supercharged version of a modern big man: efficient threes and interior defence. Everything Myles Turner says he is but with a bit more flair and off-balance-ness about his threes.</p>
+        <p style="font-family: body;">Then Jaren tore his meniscus in the NBA Bubble, missed the rest of the restart and suspiciously didn’t return until late in the 2020-21 season, playing a total of 11 games with four starts. It’s too hard to ask for efficiency after missing that much time so it’s not worth listing JJJ’s averages this past season.</p>
+        <p style="font-family: body;">Every bone in my body believes that the Grizzlies want to offer the max to JJJ, they want him to be the anchor for their young defence while draining every wide-open three that Ja Morant can give him.</p>
+        <p style="font-family: body;">But with the uncertainty around his injury and lack of production in more than a calendar year now, who knows?</p>
+        <p style="font-family: body;">For JJJ, if can’t stay on the court and prove he’s worth the max when he does touch the court, he might have to settle for a smaller deal. With his injury woes, it’s unlikely that there’s a rival team out there willing to throw more money at him in restricted free agency.</p>
+        <p style="font-family: body;">From Memphis’ point of view, if JJJ isn’t the long-term answer at either of the big man spots, who’s rising with Morant? If the two-headed monster and young team around Morant is more of a one-headed monster, what do they do?
+        </p>
+
+        <h5>Is Mikal Bridges more important than Ayton?
+        </h5>
+        <p style="font-family: body;">If you had to pick between Deandre Ayton and Mikal Bridges, who would you choose?
+        </p>
+        <p style="font-family: body;">That’s not the situation we’re in (or likely to get in), but the Phoenix Suns have somehow answered that question with “neither”. </p>
+        <p style="font-family: body;">Just when <a href="../vale-to-the-2021-phoenix-suns/Article.html" target="_blank"><em>The Deep Two's</em> Dante Boffa witnessed some magic</a>
+          and the start of something new, he proves himself to be more ‘optimistic’ than ‘cautious’.</p>
+        <p style="font-family: body;">Rob Sarver strikes again.
+        </p>
+        <p style="font-family: body;">Without delving too deep into the value Bridges brings, the fact that extension talks have slowed down for both Ayton and Bridges is troubling. Even if Bridges isn’t worth his
+        <a href="https://www.youtube.com/watch?v=NVYToGFP4zg" target="_blank">rumoured $20 million annual value</a> (he probably is), the 
+        <a href="https://nba.nbcsports.com/2021/09/19/next-nba-tv-streaming-deal-could-lead-to-175-million-salary-cap/" target="_blank">salary cap is projected to go up</a>
+        in the coming seasons so an above-value deal flattens out in a few seasons.</p>
+        <p style="font-family: body;">And if Sarver really wants to save some money, the team would be better off re-signing Bridges and then trading him for positive value. That would never happen, but even if it’s a question of Sarver’s money, it makes sense to retain young talent.</p>
+        <p style="font-family: body;">Just know this, the Phoenix Suns can afford to pay both Ayton and Bridges while keeping the rest of their team together. If it gets spun in any other way, know it’s Sarver.</p>
+        
+        <h5>Marvin Bagley the third, his royal highness
+        </h5>
+        <p style="font-family: body;">Marvin Bagley III hasn’t signed a contract extension with the Sacramento Kings. Yes, I can hear your puzzled gasps from here.</p>
+        <p style="font-family: body;">What would you even offer him? And on top of that, what would he willingly take? He would have a qualifying offer at around $14 million if the Kings offer it to him but that’s not happening.</p>
+        <p style="font-family: body;">If Bagley does want to take the minimum somewhere and recoup his value, it’s probably not in Sacramento.</p>
+
+
+
+
+        <nav class="blog-pagination" aria-label="Pagination"><a class="btn btn-outline-primary" href="../nba-imminent-death-of-the-bigman/Article.html">Next article: The best decision is no decision this free agency</a>
+          
+      </nav>
+
+    </div>
+
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 2rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <img src="../AuthorPhotos/sean-final.png" height="200" width="200">
+          <h4 class="fst-italic">Sean Carroll</h4>
+          <p>One half of The Deep Two NBA Podcast and blog and Site Expert for FanSided’s Nugg Love. Previously at Sir Charles in Charge and The Knicks Wall.</p>
+          
+        </div>
+
+        <!-- Update the list class to logo class from HTML5 Up Massively CSS -->
+        <div class="p-4">
+          <h4 class="fst-italic">Author Socials</h4>
+          <a href="https://www.linkedin.com/in/sean-carroll-/?originalSubdomain=au"><svg xmlns="http://www.w3.org/2000/svg" style="padding-left:25px;" width="20" height="20" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+            <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
+          </svg></a>
+          <a href="https://twitter.com/SeanCarrollNBA?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+            <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+          </svg></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="blog-footer">
+  <p>Website source code on <a href="https://www.sean-conlon.com"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+  </svg></a> </a></p>
+  <p>
+    <a href="#"></a>
+  </p>
+</footer>
+
+
+    
+  </body>
+</html>
