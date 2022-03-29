@@ -1,2 +1,2 @@
 # TheDeepTwo
-Source code for TheDeepTwo NBA Podcast &amp; Blog's website
+Source code for The Deep Two NBA Podcast &amp; blog's website
