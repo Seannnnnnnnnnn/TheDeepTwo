@@ -84,11 +84,17 @@
         </p>
 
         
-        <div style="text-align: center;">
-          <iframe width="420" height="315"
-            src="https://www.youtube.com/embed/HHgbK8PKLxE">
+          <iframe id="player" width="100%" src="https://www.youtube.com/embed/HHgbK8PKLxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Your browser does not support this, try viewing it on YouTube: YOUR URL
           </iframe>
-        </div>
+        <script>
+          window.addEventListener("load", playerSizer);
+          window.addEventListener("resize", playerSizer);
+          function playerSizer() {
+            var player = document.getElementById("player");
+            var width = player.offsetWidth;
+            player.style.height = (width * 0.5625) + "px";
+          }
+        </script>
 
         
 
