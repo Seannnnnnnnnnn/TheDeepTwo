@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-58G8MS4BCR"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-58G8MS4BCR');
+    </script>
+    <link rel="image_src" href="APRIL 22 - WNBA - FINAL.png">
+     
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Sean Conlon>
+    <meta name="generator" content="Hugo 0.84.0">
+    <title>Storylines to follow in the 2022 WNBA season</title>
+    <link rel="shortcut icon" type="image/png" href="../blog/Logo.png">
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/blog/">
+ 
+    <meta name="twitter:card" content="summary"><meta/>
+    <meta name="twitter:site" content="@TheDeepTwoNBA"><meta/>
+    <meta name="twitter:title" content="Storylines to follow in the 2022 WNBA season"><meta/>
+    <meta name="twitter:description" content="We’re less than a month away from the start of the 2022 WNBA season, and a league built on star power has more drawcards than ever. So who should we be watching as the chase for the chip tips off?"><meta/>
+    <meta name="twitter:image" content="/twitter.png"><meta/>
+
+
+
+    <!-- Bootstrap core CSS -->
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="../blog/blog.css" rel="stylesheet">
+  </head>
+  <body>
+  
+  
+  <footer class="blog-footer">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-4 text-center">
+        <!--  Do you want the image here or do you want a title? -->
+        <!--  <a class="blog-header-logo text-dark" href="#">The Deep Two</a> -->
+        <a href="../index.html"><img src="../blog/tdt-logo_bug-v2.1 (1).png" alt="Logo" width="200" height="200"></a>
+      </div>
+      <div class="col-4 d-flex justify-content-end align-items-center">
+        
+      </div>
+    </div>
+  </footer>
+
+  <!-- Topmost Nav Bar -->
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 link-secondary" href="#"></a>
+      <a class="p-2 link-secondary" href="../index.html">Home</a>
+      <a class="p-2 link-secondary" href="../blog/About.html">About Us</a>
+      <a class="p-2 link-secondary" href="https://open.spotify.com/show/18alM4tQKg1u884cu1ZR7l">Podcast</a>
+      <a class="p-2 link-secondary" href="https://www.facebook.com/TheDeepTwoNBA/"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+        <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://www.instagram.com/thedeeptwo/?hl=en"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://www.linkedin.com/company/the-deep-two-nba-podcast/?originalSubdomain=au"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+        <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://twitter.com/TheDeepTwoNBA"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+        <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://podcasts.apple.com/au/podcast/the-deep-two-nba-podcast/id1472955756"><span class="iconify" data-icon="ion-logo-apple" data-inline="false"></span></a>
+      <a class="p-2 link-secondary" href="#"></a>
+    </nav>
+  </div>
+</div>
+
+<main class="container">
+  <div class="row g-5">
+    <div class="col-md-8">
+      <h3 class="pb-4 mb-4 fst-italic border-bottom">
+      </h3>
+
+      <article class="blog-post">
+        <h2 class="blog-post-title">Storylines to follow in the 2022 WNBA season</h2>
+        <p class="blog-post-meta">April 25 by <a href="../blog/About.html">Lukas Petridis</a></p>
+        <!-- make sure the date is correct -->
+    
+        
+        <p style="font-family: body;"><em>We’re less than a month away from the start of the 2022 WNBA season, and a league built on star power has more drawcards than ever. So who should we be watching as the chase for the chip tips off?</em></p>
+      
+        <!-- add new cover image in here bro -->
+        <img src="APRIL 22 - WNBA - FINAL.png" class="img-fluid">
+
+        <p style="text-align: center; color: gray;">Sean Carroll illustration</p>
+        <hr>
+
+        <h3>The Last Dance - Seattle Storm edition</h3>
+
+        <p style="font-family: body;">All signs are pointing to this being Sue Bird’s last season in the WNBA. She was considering retirement at the end of last season, but with the help of these fans and the iconic (can someone please send me a discount code) Diana Taurasi, she signed on for 2022.
+        </p>
+
+        <iframe id="player" width="100%" src="https://www.youtube.com/embed/9mQF8tE9PDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Your browser does not support this, try viewing it on YouTube: YOUR URL
+        </iframe>
+      <script>
+        window.addEventListener("load", playerSizer);
+        window.addEventListener("resize", playerSizer);
+        function playerSizer() {
+          var player = document.getElementById("player");
+          var width = player.offsetWidth;
+          player.style.height = (width * 0.5625) + "px";
+        }
+      </script>
+
+        <p style="font-family: body;">Being one of basketball’s most historic players, Bird proved, yet again, that age is just a number in the last game of Seattle’s 2021 season, with a 13-point second half and a three-assist overtime. Few basketball players retire on their own accord, but the Sue Bird era of basketball will end when Sue Bird decides, not because of health, talent or age – she’ll go out on top.
+        </p>
+
+        <p style="font-family: body;">2018 MVP Breanna Stewart is one of the most dynamic scorers I have ever seen grace the hardwood. At 27, she’s about to hit the guts of her prime and when you blend her skills with her size, the term ‘mismatch’ is ubiquitous with Stewie’s game. A 2022 MVP is firmly on the cards for Breanna.
+        </p>
+
+        <p style="font-family: body;">Jewell Loyd’s career-high 37-point September night during the 2021 season began with a WNBA record-tying 22-point first quarter, or should I say, 22-point first five minutes and 39 seconds. Loyd provided consistent scoring every night for the Storm and was bested by only six players league-wide, one of whom was her teammate, Breanna Stewart, before her injury.
+        </p>
+
+        <p style="font-family: body;">Second on this list was Brittney Griner, but more on that later. Oh also, Griner was sixth in rebounds and led the league in blocks, so yes, that thought you just had is correct, she <em>is</em> one of the best basketball players in the world.
+        </p>
+
+        <p style="font-family: body;">After Stewie went down, Loyd’s numbers went up, and as she comes into her eighth season, she will be more lethal than ever.
+        </p>
+
+        <p style="font-family: body;">After the draft, the Storm have ended up with Melbourne-born Jade Melbourne (19), Elissa Cunane (21) and Evina Westbrook (23). This allows for some future planning, with a couple of timelines existing simultaneously in Seattle. With only three players signed beyond this season - Mercedes Russell, Jewell Loyd and Mikiah Herbert Harrigan - it may be time to invest the starting centre spot into Coburg Giants legend Ezi Magbegor. This could also double as a bargaining chip to retain the 22-year-old beyond this season. Although the team loses two inches when Magbegor is on the court and Russell is on the bench, it gains four years and Ezi can help drag the opposing big out of the key to allow the likes of Bird, Stewie and Loyd, who were all All-Stars last season, to attack the cup.
+        </p>
+
+        <p style="font-family: body;">This season could trigger the rebuild for the Storm if they aren’t the last team standing at the end of the playoffs and the offseason could leave the front office pretty You’ve Got Mai- *checks notes* pretty Sleepless in Seattle.
+        </p>
+
+        <h3>Liz Cambage and the Los Angeles Sparks</h3>
+
+        <p style="font-family: body;">Liz Cambage is finally <a href= https://www.latimes.com/sports/story/2022-02-23/new-sparks-player-liz-cambage-is-finally-where-shes-wanted-to-be target="_blank" rel="noopener noreferrer">in the situation she has always wanted to be in</a>, playing in Los Angeles. The prospect of Cambage being in an ideal situation is terrifying. In 2018, she kicked off a 206-point six-game stretch with a WNBA record 53 points <a href="https://www.basketball-reference.com/wnba/boxscores/201807170DAL.html" target="_blank" rel="noopener noreferrer">she had 43</a>. A couple of weeks after that hot scoring stretch came to an end, <a href="https://www.basketball-reference.com/wnba/boxscores/201808170DAL.html" target="_blank" rel="noopener noreferrer">one fateful July night</a>. That was before she was where she wanted to be, which needs to send shudders down opposing centres’ spines.
+        </p>
+
+        <p style="font-family: body;">The Sparks also <a href=https://www.seattletimes.com/sports/storm/storm-trades-katie-lou-samuelson-no-9-2022-draft-pick-to-los-angeles-for-gabby-williams/ target="_blank" rel="noopener noreferrer">added Katie Lou Samuelson in exchange for Gabby Williams</a> in a deal that befuddles the mind. They not only get four inches taller, but they get a year younger, as well as a draft pick (which turned into Rae Burrell), in the deal. Compound this with the fact that Williams didn’t play in the WNBA in 2021 (<a href= https://www.espn.com.au/wnba/story/_/id/31935738/los-angeles-sparks-gabby-williams-says-french-team-where-supposed-bedue target="_blank" rel="noopener noreferrer">to self-imposed national duties</a>), while Katie Lou’s last game with the Storm saw her dropping 18 points on 4-6 shooting from the land of plenty. In the context of the league, it only gets better for LaLa land.
+        </p>
+
+        <p style="font-family: body;">Put these two next to Space Jam: A New Legacy star Nneka Ogwumike and the Sparks’ front court is massive without jeopardising too much mobility.
+        </p>
+
+        <p style="font-family: body;">If there’s one thing Kanye’s doco taught me, it’s that if there’s one thing Coodie’s parents taught him it’s that everything happens for a reason, and if there’s one thing my parents taught me it’s that you can’t teach height.
+        </p>
+
+        <p style="font-family: body;">Although they missed out on the playoffs last season, the Sparks offer a nightmare front line. They may win this matchup every night, and it may never be close.
+        </p>
+
+        <h3>New York Liberty</h3>
+
+        <p style="font-family: body;">With WNBA poster girl Sabrina Ionescu being potentially the third-best player on her team, the New York Liberty’s 2022 potential is exciting, to say the least. The 2021 season saw a fearless young team that played with breakneck pace and got threes up like they were going out of fashion. Betnijah Laney quietly averaged five more points per night than Ionescu and her diverse bag sets a great foundation for the space the Liberty want to work with every night. Aussie Rebecca Allen was getting up five threes per night and hitting on 38.1 percent of them, which pales in comparison to teammate and net assaulter Sami Whitcomb, who shot a blistering 42.5 percent from behind the arc on six attempts per game.
+        </p>
+
+        <p style="font-family: body;">Trailing big Stefanie Dolson should fit into this dynamic seamlessly. If the first and second options fail on a Liberty fast break, the option for a top of the key three would be ideal for their game plan. Dolson hit on over 40 percent of her threes in 2021 and she proved to be a great defensive anchor, seemingly always in the right spot. She provided great relief for Candace Parker and Azura Stevens on their title run last year and even had a 14-point performance in Game 1 of the Finals in just sixteen minutes, hitting on two of three from beyond the arc.
+        </p>
+
+        <p style="font-family: body;">When you consider that everyone on the Liberty’s roster is signed beyond this year it gives a great feeling that the sun could be rising in the city that never sleeps. God, is there anywhere you can get some decent shut eye in America?
+        </p>
+
+        <h3>How will the Connecticut Sun rebound after their disappointing 2021 playoffs?</h3>
+
+        <p style="font-family: body;">After a league-best 26-6 regular season and employing the services of the 2021 MVP in silky scorer Jonquel Jones, the Connecticut Sun lost their sole playoff series 3-1. One-third of their losses for 2021 came in the playoffs, where the MVP saw more court time but a drop in both points and rebounds per contest.
+        </p>
+
+        <p style="font-family: body;">So how will they respond? They’ve posted a healthy dose of winning in the JJ era, going well above .500 any season she has had a starting gig, but there was a certain feeling after their playoff loss to the Chicago Sky that they weren’t built to win meaningful games. The Sky showed exactly what winning basketball looked like during the most recent playoffs and the Sun looked like a bunch of stunned mullets coming up against that.
+        </p>
+
+        <p style="font-family: body;">The good signs for the Sun this year are the same as last year – their core. JJ, Brionna Jones, Jasmine Thomas, Briann January, DeWanna Bonner, Alyssa Thomas and Natisha Heideman represent all the bits of basketball extremely well. They’re all professional hoopers that set a very high baseline for what this team can achieve, but you aren’t going to win a championship on your baseline, you’re going to win it while maximising your potential.
+        </p>
+
+        <p style="font-family: body;">The expectation on the Sun is championship or bust, an expectation that every team aspires to have. Will they fulfil this expectation, or will it be another successful regular season that goes downhill once there’s money on the line?
+        </p>
+
+        <h3>Brittney Griner detained in Russia </h3>
+
+        <p style="font-family: body;">Britney Griner, seven-time WNBA All-Star, is currently being detained in Russia after being found with a weed vape. <em>CBS</em> has a <a href="https://www.cbssports.com/wnba/news/brittney-griner-situation-explained-wnba-star-in-good-condition-in-russia-according-to-u-s-official/" target="_blank" rel="noopener noreferrer">full timeline</a> of the developing saga, but what’s clear is that WNBA stars even having to go to countries like Russia is a failing of the league. 
+        </p>
+
+        <p style="font-family: body;">WNBA players are underpaid. They’re so poorly paid that players have to go overseas to countries where detainment for weed vapes happens, and where they initiate invasion and war under their dictatorship. Brittney Griner’s situation would be wholly avoidable if the WNBA paid their players better.
+        </p>
+
+        <p style="font-family: body;">Griner’s situation highlights, yet again, global pay inequity in women’s basketball (alongside A LOT of other things). Her Russian team pays her $1.5 million USD, whereas in the WNBA, max contracts are set at $228,000 USD. That’s six and a half times more money, for anyone playing at home.
+        </p>
+
+        <p style="font-family: body;">Why is America, which has taken home nine of the last ten gold medals at the Olympics thanks to its women’s basketball team (two of which are thanks to Griner), not paying its female basketballers at a rate that is equitable to their global counterparts? As Australia’s basketball GOAT said:
+        </p>
+
+        <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Liz Cambage wants to see the CBA changed in the WNBA:<br><br>“I’ve been vocal since day one, I sat out five seasons because I get paid 5-8 times more overseas. … It’s hard when you have the best league in the world, but we’re not treated like the best athletes in the world.” <a href="https://t.co/ML4Us11kAK">pic.twitter.com/ML4Us11kAK</a></p>&mdash; ESPN (@espn) <a href="https://twitter.com/espn/status/1496592624760799237?ref_src=twsrc%5Etfw">February 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        <p style="font-family: body;">Diana Taurasi (aka Diana Too Flossy) sat out the 2015 WNBA season because her Russian team, UMMC Ekaterinburg, offered to pay her WNBA wage as a bonus on top of her base salary. Taurasi has a case for being the best show in basketball today and the conditions of women’s basketball in America led her to sit out for a season. Liz sat out five seasons.
+        </p>
+
+        <p style="font-family: body;">Griner’s detention in Russia should be a caricature, but it’s a reality, it’s our reality. The best basketball players in the world should be able to work and sustain a full-time wage from their WNBA salary alone. The conditions for workers shouldn’t be so that they need to thrust themselves into situations where they’re playing in a country run by a dictator. Also, why is THAT country outshining the U S of A, home of the free, land of the brave, greatest country in the world or some shit, in any regard.
+        </p>
+
+        <p style="font-family: body;">The WNBA makes for great viewing, I strongly recommend it to anyone that considers themselves a basketball fan. It’s entertaining, the team play is incredible, there are no superstar calls, the professional athletes don’t throw tanties, they fulfil the <em>professional</em> part of their job title, and there are some great personalities.
+        </p>
+
+        <p style="font-family: body;">As Liz Cambage says: “It’s hard when you have the best league in the world, but we’re not treated like the best athletes in the world.”
+        </p>
+        
+        <p style="font-family: body;">Griner’s detention ends on May 19 and the WNBA season starts on May 6. Hopefully, we see her tipping off next to Taurasi sooner rather than later and we’re all able to enjoy these four storylines together, as well as Griner’s season.
+        </p>
+        
+
+      <nav class="blog-pagination" aria-label="Pagination">
+        <a class="btn btn-outline-primary" href="https://thedeeptwo.com/charlotte-hornets-need-more-than-a-jersey-change/article.html">Carroll: How to will the Charlotte Hornets jump off the treadmill of mediocrity?</a>
+      </nav>
+    </div>
+
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 2rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <img src="../AuthorPhotos/lukas-final.png" width="250" height="250">
+          <h4 class="fst-italic">Lukas Petridis</h4>
+          <p>Lukas Petridis is one half of <a href=https://www.youtube.com/channel/UCWzpOU5DBP2zXJe7uT2qN4w target="_blank" rel="noopener noreferrer"><em>The JVG NBA Tribute Show</em></a> and long-time contributor to The Deep Two. He can occasionally be found as a guest on episodes of <em>The Deep Two NBA Podcast</em> and putting up shots at the immortal Cheese Bridge in Melbourne.</p>
+          
+        </div>
+
+        <!-- Update the list class to logo class from HTML5 Up Massively CSS -->
+        <div class="p-4">
+          <h4 class="fst-italic">Author Socials</h4>
+          <a href="https://twitter.com/zach_ee_mudda"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+            <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+          </svg></a>
+          <a href="https://www.instagram.com/jvgnbatributeshow/" style="padding-left:25px;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+          </svg></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="blog-footer">
+  <p>Website source code on <a href="https://www.sean-conlon.com"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+  </svg></a> </a></p>
+  <p>
+    <a href="#"></a>
+  </p>
+</footer>
+
+
+    
+  </body>
+</html>
