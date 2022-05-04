@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-58G8MS4BCR"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-58G8MS4BCR');
+    </script>
+    <link rel="image_src" href="MAY 22 - First-round maturity - FINAL.png">
+
+    <meta name="twitter:card" content="summary"><meta/>
+    <meta name="twitter:site" content="thedeeptwo.com"><meta/>
+    <meta name="twitter:title" content="NBA: Maturity and humility shine in the First Round"><meta/>
+    <meta name="twitter:description" content="Draymond Green once said that there are 82 game players and 16 game players. Well, the First Round of the NBA Playoffs showed us that in order to be a 16-gamer, you have to keep a cool head and roll with the punches."><meta/>
+    <meta name="twitter:image" content= "https://thedeeptwo.com/nba-maturity-and-humility-shine-in-first-round/twitter.png" ><meta>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Sean Conlon>
+    <meta name="generator" content="Hugo 0.84.0">
+    <title>What’s happening to the MVP?</title>
+    <link rel="shortcut icon" type="image/png" href="../blog/Logo.png">
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/blog/">
+ 
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="../blog/blog.css" rel="stylesheet">
+  </head>
+  <body>
+  
+  
+  <footer class="blog-footer">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-4 text-center">
+        <!--  Do you want the image here or do you want a title? -->
+        <!--  <a class="blog-header-logo text-dark" href="#">The Deep Two</a> -->
+        <a href="../index.html"><img src="../blog/tdt-logo_bug-v2.1 (1).png" alt="Logo" width="200" height="200"></a>
+      </div>
+      <div class="col-4 d-flex justify-content-end align-items-center">
+        
+      </div>
+    </div>
+  </footer>
+
+  <!-- Topmost Nav Bar -->
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 link-secondary" href="#"></a>
+      <a class="p-2 link-secondary" href="../index.html">Home</a>
+      <a class="p-2 link-secondary" href="../blog/About.html">About Us</a>
+      <a class="p-2 link-secondary" href="https://open.spotify.com/show/18alM4tQKg1u884cu1ZR7l">Podcast</a>
+      <a class="p-2 link-secondary" href="https://www.facebook.com/TheDeepTwoNBA/"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+        <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://www.instagram.com/thedeeptwo/?hl=en"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://www.linkedin.com/company/the-deep-two-nba-podcast/?originalSubdomain=au"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+        <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://twitter.com/TheDeepTwoNBA"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+        <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+      </svg></a>
+      <a class="p-2 link-secondary" href="https://podcasts.apple.com/au/podcast/the-deep-two-nba-podcast/id1472955756"><span class="iconify" data-icon="ion-logo-apple" data-inline="false"></span></a>
+      <a class="p-2 link-secondary" href="#"></a>
+    </nav>
+  </div>
+</div>
+
+<main class="container">
+  <div class="row g-5">
+    <div class="col-md-8">
+      <h3 class="pb-4 mb-4 fst-italic border-bottom">
+      </h3>
+
+      <article class="blog-post">
+        <h2 class="blog-post-title">Maturity and humility shine in the First Round of the 2022 NBA Playoffs</h2>
+        <p class="blog-post-meta">May 4 by <a href="../blog/About.html">Alessio Conte</a></p>
+        
+    
+        <p style="font-family: body;"><em>Draymond Green once said that there are 82 game players and 16 game players. Well, the First Round of the NBA Playoffs showed us that in order to be a 16-gamer, you have to keep a cool head and roll with the punches.
+        </em></p>
+        
+
+        <img src="MAY 22 - First-round maturity - FINAL.png" class="img-fluid">
+
+        <p style="text-align: center; color: gray;">Sean Carroll illustration</p>
+        <hr>
+
+        <p style="font-family: body;"><span>O</span> &nbsp; n the most recent Four Man Weave + Marco on the <a href= https://www.youtube.com/channel/UCWzpOU5DBP2zXJe7uT2qN4w target="_blank" rel="noopener noreferrer"><em>JVG NBA Tribute Show</em></a> podcast feed, the five fellas ranked their round one matchups based on watchability. Most results drew a consensus: Warriors/Nuggets and Grizzlies/Timberwolves as two of the more watchable series available and the Suns/Pelicans being quite a throwaway (outside of <a href= https://thedeeptwo.com/vale-to-the-2021-phoenix-suns/Article.html target="_blank" rel="noopener noreferrer">one specific Suns fan</a>.)
+        </p>
+        
+        <p style="font-family: body;">The battle of the two up-and-coming rosters in Memphis and Minnesota ended up being a shocking viewing experience, unless you like watching car crashes, I guess. Six games of shocking decision making mixed with a war of immature actions and words was a recipe for disaster.
+        </p>
+
+        <p style="font-family: body;">By no means did either Taylor Jenkins or Chris Finch coach the series poorly, I firmly believe both coaches did everything they could with the rosters they have available to them. However, both rosters are made up of mostly young and impressionable players with much to learn. 
+        </p>
+
+        <p style="font-family: body;">The Ja Morant and Anthony Edwards battle was… interesting to say the least with both players disappearing for 90 percent of the series before dominating for an unforgettable ten percent of each game. These two leaders really set the tone for their team and led with their undeniable confidence, but with nobody to bring them back down to earth, this ultimately led to their demise in too many instances. That’s without mentioning their defensive deficiencies.
+        </p>
+
+        <p style="font-family: body;">The Karl Anthony Towns and Jaren Jackson Jr. experiences were on another level. The two spearheads of their respective teams’ frontcourts had their play overshadowed by their abhorrent decision making and constant fouling. Neither player could keep their head in the game for longer than two minutes at a time and their coaches had to rely on backups Naz Reid and Brandon Clarke to carry a heavy burden.
+        </p>
+
+        <p style="font-family: body;">MVP of the series, Desmond Bane, managed to be the only budding star that actually played to his level at every stage of the series, and solid games from Clarke and Xavier Tillman carried the disoriented Grizzlies through.
+        </p>
+
+        <p style="font-family: body;">It is fair to say that an injection of a mature and seasoned veteran would not have gone astray for either of these rosters. Maybe Steven Adams could have been that man for the Grizzlies, but he was played off the court by minute two of game two due to his poor matchup with Towns.
+        </p>
+
+        <p style="font-family: body;">Patrick Beverley was his classic self, providing a genuine spark for the hungry Wolves for the initial 46 minutes before carrying that frenetic energy and unrivalled (and <a href= https://youtu.be/oTjSh5eks2o target="_blank" rel="noopener noreferrer">ineffective</a>) shit-talking into the closing minutes and overhyping a team that required more poise and steady play. Goes to show the major difference between physical age and mental age. 
+        </p>
+
+        <p style="font-family: body;">Also, hey, stop shooting threes at the end of the game when there are literally three potentially game-changing offensive players with you on the floor.
+        </p>
+
+        <p style="font-family: body;">On the other side of the Western Conference bracket, the number one seed Phoenix Suns faced off against the Zion-less New Orleans Pelicans that snuck into the playoffs through the play-in series. An untimely Devin Booker injury created a more eventful series than initially expected, but no complaints from the viewing side of it all.
+        </p>
+        
+        <p style="font-family: body;">Chris Paul, one of the more mature players in the playoffs, led his undermanned team to a 4-2 series victory despite some excellent games from the young Pelicans. The same Pelicans that famously started the season with one win and twelve losses managed to turn their entire year around with a fantastic trade for the wily veteran CJ McCollum.
+        </p>
+
+        <p style="font-family: body;">The dichotomy between Paul and Beverley was made <a href= https://youtu.be/Hc09YEFbEDA target="_blank" rel="noopener noreferrer">ever so clear</a> in last season’s playoffs. In the face of the incessant chatter and physical taunts, Paul remained calm and led his Suns to a series victory behind his play, not his words. 
+        </p>
+
+        <p style="font-family: body;">It is no secret that Beverley’s leadership style does work, to an extent. The feisty young wolves were mere pups last year, with all the talent in the world but no fire behind them. Unfortunately, this abrasive and over-the-top style is not the true maturity I believe necessary to carry through the playoffs
+        </p>       
+
+        <p style="font-family: body;">Paul keeps his young guns in line, they play with a reverence for the game plan and a routine that is reliable for them as much as it is undeniable for the opposition. 
+        </p>
+
+        <p style="font-family: body;">Like Jenkins and Finch, two great coaches in Monty Williams and Willie Green also made effective and timely personnel decisions when their teams needed it. The stable leadership of Paul and McCollum and the willingness of the youth to listen and grow ultimately made the decisions so sound.
+        </p>
+
+        <p style="font-family: body;">The Golden State Warriors and Denver Nuggets series highlighted the importance of humility. 48 minutes of high-intensity effort on offence, defensive focus from players that are not exactly defensive juggernauts and reverence for the all-NBA skill level of their opponents made this 4-1 series win for the Warriors more competitive than it looks from the outside.
+        </p>
+
+        <p style="font-family: body;">Future two-time-MVP Nikola Jokic (don’t @ me) continued to carry a severely underskilled Nuggets roster with patience and grace, and the sheer fact they even won a game made the entire year worthwhile considering the mountain they were facing. The Warriors threw everything they could at Jokic, including the world-beating Draymond Green and he still managed to dominate in several games. 
+        </p>
+
+        <p style="font-family: body;">Not once was there a complaint about his team from the big man. All season long he has taken the brunt of the criticism regarding his team’s success and failures, no matter how unfounded those critiques are. There is no finger-pointing and no blame unless it is on himself.
+        </p>
+
+        <p style="font-family: body;">Draymond Green, one of the league’s more polarising figures on the court, even went as far as to <a href= https://youtu.be/oixE2KddIEs target="_blank" rel="noopener noreferrer">praise</a> Jokic for his efforts throughout the hard-fought series.
+        </p> 
+
+        <p style="font-family: body;">I see Draymond as what Beverley wants to be. Hard-nosed, irritating and a pain in the ass for opposing players both physically and mentally, but the ability to step back and compose himself and his teammates in *most* moments provides this added level of humility that is necessary to compete at such a level.
+        </p>
+
+        <p style="font-family: body;">Assuming you’re the best but not recognising the greatness of others will keep your blinders up until you are inevitably overtaken by the competition.
+        </p>
+
+        <p style="font-family: body;">Draymond and his teammates played some of the more elite and fun basketball that we have seen all year from any amalgamation of players on a court, but never did the game get unnecessarily chippy or out of hand, just competitive. 
+        </p> 
+
+        <p style="font-family: body;">It is no shock that the current favourites to win the title - the Bucks, Celtics, Warriors and Suns - all have a strong blend of youth and age as well as humility and maturity. The opposite of what the Grizzlies, Timberwolves and Nets have shown. 
+        </p>
+
+        <p style="font-family: body;">I really hope one of those four teams goes on to win the chip and continues to prove the importance of these factors because everyone in the NBA is good at basketball, but often only the most emotionally intelligent can really win it.
+        </p> 
+
+        <hr class="hr4">
+
+      
+      <nav class="blog-pagination" aria-label="Pagination">
+        <a class="btn btn-outline-primary" href="../wnba-storylines-to-follow-in-2022-season/article.html">Petridis: Storylines to follow in the 2022 WNBA season</a>
+        &nbsp;
+        <a class="btn btn-outline-primary" href="https://youtu.be/eS1QmAus3dA">Most recent podcast: What's next for the Brooklyn Nets and Chicago Bulls?</a>
+        &Tab;
+        <a class="btn btn-outline-primary" href="../nba-whats-happening-to-the-mvp/article.html">More from this author: What's happening to the MVP?</a>
+      </nav>
+
+
+    </div>
+
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 2rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <img src="../AuthorPhotos/Alessio.png">
+          <h4 class="fst-italic">Alessio Conte</h4>
+          <p>Contributor to The Deep Two, avid NBA fanboy and depressed Sacramento Kings fan.</p>
+          
+        </div>
+
+        <!-- Update the list class to logo class from HTML5 Up Massively CSS -->
+        <div class="p-4">
+          <h4 class="fst-italic">Author Socials</h4>
+          <a href="https://twitter.com/thedeeptwonba"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+            <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+          </svg></a>
+          <a href="https://www.instagram.com/thedeeptwo/?hl=en" style="padding-left:25px;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+          </svg></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="blog-footer">
+  <p>Website source code on <a href="https://www.sean-conlon.com"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+  </svg></a> </a></p>
+  <p>
+    <a href="#"></a>
+  </p>
+</footer>
+
+
+    
+  </body>
+</html>
