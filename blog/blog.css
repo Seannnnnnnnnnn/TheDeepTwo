@@ -6,7 +6,7 @@
 span {
   float: left;
   line-height: 85%;
-  width: .7em;
+  width: .8em;
   font-size: 300%;
   font-family: drop-cap
 }
@@ -31,13 +31,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .display-4 {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 @media (min-width: 768px) {
   .display-4 {
     font-size: 3rem;
   }
 }
+
+
 
 .nav-scroller {
   position: relative;
@@ -98,6 +100,16 @@ h1, h2, h3, h4, h5, h6 {
   src: url("../pop-art-dropcap-font/PopArt-Regular.ttf");
 }
 
+@font-face {
+  font-family: "read-more-semibold";
+  src: url("../oswald-font/Oswald-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "read-more-medium";
+  src: url("../oswald-font/Oswald-Medium.ttf");
+}
+
 /*
 p {
   font-family: body
@@ -132,4 +144,33 @@ p {
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
+}
+
+/*
+ * Carroll content from here on (plus Lee Harvey Oswald font)
+ */
+
+ .link { color: #000000; }
+
+ .link:hover { color: #F27436; }
+
+ .read-more {
+  max-width: 400px;
+  padding-top: 1rem;
+  padding-bottom: 0;
+  font-size: 100rem;
+  filter: grayscale(0);
+ }
+
+.read-more:hover {
+  max-width: 400px;
+  padding-top: 1rem;
+  padding-bottom: 0;
+  font-size: 100rem;
+  filter: grayscale(100);
+}
+
+a:link {
+  text-decoration: none;
+  text-decoration: #F27436;
 }
