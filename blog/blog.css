@@ -7,7 +7,7 @@ span {
   float: left;
   line-height: 85%;
   width: .8em;
-  font-size: 300%;
+  font-size: 350%;
   font-family: drop-cap
 }
 
@@ -41,6 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 .display-4 {
   font-size: 3rem;
 }
+
 @media (min-width: 768px) {
   .display-4 {
     font-size: 3rem;
@@ -133,7 +134,7 @@ p {
 }
 .blog-post-title {
   margin-bottom: .25rem;
-  font-size: 2.5rem;
+  font-size: 3.5rem;
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
@@ -160,7 +161,11 @@ p {
 
  .link { color: #000000; }
 
- .link:hover { color: #F27436; }
+ .link-orange { color: #F27436;}
+
+ .link:hover { color: #F27436; 
+  transition-duration: 0.5s;
+}
 
  .read-more {
   max-width: 400px;
@@ -175,10 +180,15 @@ p {
   padding-top: 1rem;
   padding-bottom: 0;
   font-size: 100rem;
+  transition-duration: 0.5s;
   filter: grayscale(100);
 }
 
 a:link {
   text-decoration: none;
   text-decoration: #F27436;
+}
+
+p-body {
+  font-size: 1.2rem;
 }
