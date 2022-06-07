@@ -11,6 +11,14 @@ span {
   font-family: drop-cap
 }
 
+small-span {
+  float: left;
+  line-height: 85%;
+  width: .5em;
+  font-size: 350%;
+  font-family: drop-cap
+}
+
 .blog-header {
   /*line-height: 1;*/
   background-color: #162044;
