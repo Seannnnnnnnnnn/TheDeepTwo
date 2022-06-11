@@ -163,6 +163,8 @@ p {
 
  .link-orange { color: #F27436;}
 
+ .link-orange:hover { color: #DC6A32;}
+
  .link:hover { color: #F27436; 
   transition-duration: 0.5s;
 }
