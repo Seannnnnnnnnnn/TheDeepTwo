@@ -145,9 +145,9 @@ p {
  * Footer
  */
 .blog-footer {
-  padding: 1.0rem 0;
-  color: #727272;
-  text-align: center;
+  padding: 3.0rem 10rem;
+  color: #FFFFFF;
+  text-align: left;
   background-color: #162044;
   border-top: 0.5rem solid #162044;
 }
@@ -168,6 +168,12 @@ p {
  .link:hover { color: #F27436; 
   transition-duration: 0.5s;
 }
+
+ .link-footer { color: #FFFFFF; }
+
+ .link-footer:hover { color: #DC6A32;
+ 
+ }
 
  .read-more {
   max-width: 400px;
